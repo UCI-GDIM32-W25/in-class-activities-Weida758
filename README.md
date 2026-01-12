@@ -16,4 +16,4 @@ The advice that our table decided on was to find helpful resources online when y
 8. _playerTransform
 
 ### Activity 3
-https://docs.google.com/document/d/1xLpjOiC1mLK6nAbB_YaibtbYXvQONX3D-RQwwT5zzg4/edit?usp=sharing
+[MG1 Breakdown Google Doc](https://docs.google.com/document/d/1xLpjOiC1mLK6nAbB_YaibtbYXvQONX3D-RQwwT5zzg4/edit?usp=sharing)
