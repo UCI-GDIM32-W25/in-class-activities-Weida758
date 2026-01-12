@@ -1,10 +1,10 @@
 # GDIM32 In Class Activities
 ## W1
 
-## Activity 1
+### Activity 1
 The advice that our table decided on was to find helpful resources online when you're stuck such as youtube and online documentation.
 
-## Activity 2
+### Activity 2
 
 1. 10
 2. 2
@@ -15,5 +15,5 @@ The advice that our table decided on was to find helpful resources online when y
 7. Translate is not called on an actual object, but a class.
 8. _playerTransform
 
-## Activity 3
+### Activity 3
 https://docs.google.com/document/d/1xLpjOiC1mLK6nAbB_YaibtbYXvQONX3D-RQwwT5zzg4/edit?usp=sharing
