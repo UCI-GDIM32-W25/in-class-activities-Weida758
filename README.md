@@ -22,3 +22,7 @@ The advice that our table decided on was to find helpful resources online when y
 
 ### Activity 1
 ![MG2 BreakDown Drawing](https://github.com/user-attachments/assets/541b50d6-cb96-425a-8dca-438d6cb05e55)
+
+### Activity 2
+[Commit for MG2 on Tuesday during class](https://github.com/UCI-GDIM32-W25/mg2-Weida758/commit/cf224ff410a9b3b90a0c280bb38f8db912403bec)
+I believe I finished all the features needed for minigame 2: player jumping while on the ground, coin spawning at random intervals, coin destroying on player contact and UI updating, coin destroys itself after a set amount of time. 
