@@ -17,3 +17,8 @@ The advice that our table decided on was to find helpful resources online when y
 
 ### Activity 3
 [MG1 Breakdown Google Doc](https://docs.google.com/document/d/1xLpjOiC1mLK6nAbB_YaibtbYXvQONX3D-RQwwT5zzg4/edit?usp=sharing)
+
+## W2
+
+### Activity 1
+![MG2 BreakDown Drawing](https://github.com/user-attachments/assets/541b50d6-cb96-425a-8dca-438d6cb05e55)
