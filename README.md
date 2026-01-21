@@ -30,4 +30,11 @@ I believe I finished all the features needed for minigame 2: player jumping whil
 ## W3
 
 ### Activities 0-2
-Andrew
+Andrew Hsur
+
+### Activity 3
+
+
+![MG3 BreakDown Drawing](https://github.com/user-attachments/assets/0bf0fd9f-7b58-4ea7-bdb8-13dd46924bf3)
+
+
