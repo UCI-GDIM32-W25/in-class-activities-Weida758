@@ -38,3 +38,9 @@ Andrew Hsur
 ![MG3 BreakDown Drawing](https://github.com/user-attachments/assets/0bf0fd9f-7b58-4ea7-bdb8-13dd46924bf3)
 
 
+## W4
+
+### Activity 1
+
+Only the last locator object will have the locator component still intact, the other gameObjects with the locator component will automatically have the locator component destroyed.
+
