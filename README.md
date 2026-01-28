@@ -44,3 +44,11 @@ Andrew Hsur
 
 Only the last locator object will have the locator component still intact, the other gameObjects with the locator component will automatically have the locator component destroyed.
 
+### Activity 2 
+![MG4 Breakdown](https://github.com/user-attachments/assets/ba679acd-4d14-4412-98e0-d3dadbde7193)
+
+
+### Activity 3
+
+
+
