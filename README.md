@@ -50,5 +50,8 @@ Only the last locator object will have the locator component still intact, the o
 
 ### Activity 3
 
+[Commit for MG4 for the day](https://github.com/Weida758/GDIM32-HW4/commit/529a676567bccef025413bf532fa7beda66a17db)
 
+
+I created the system that allows spawning intervals of the pipes and also spawning them at random heights. 
 
