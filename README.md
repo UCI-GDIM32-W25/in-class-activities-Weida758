@@ -68,6 +68,17 @@ The model in the W5demo2 are the scriptable objects EnemyStats and ItemW5Demo2, 
 
 ### Activity 3
 
-Scenario 1: MVC with C# events
-Scenario 2: Scriptable objects for weapon & ability data, inheritance for weapon abstract class, MVC with C# events for handling the event of gunshots coming in contact with enemy. FSM for animation and movement modes like walking and running, 
-Scenario 3: Scriptable Objects for the objects that exist in the world, like plant, rock, seed, plant, etc. MVC where player receives input and react to the input for movement, view for the inventory, and model for the various data of the game where an example could be amount of seed in inventory. 
+Scenario 1:
+
+MVC with C# events
+Scenario 2:
+
+Scriptable objects for weapon & ability data, inheritance for weapon abstract class, MVC with C# events for handling the event of gunshots coming in contact with enemy. FSM for animation and movement modes like walking and running, 
+Scenario 3:
+
+Scriptable Objects for the objects that exist in the world, like plant, rock, seed, plant, etc. MVC where player receives input and react to the input for movement, view for the inventory, and model for the various data of the game where an example could be amount of seed in inventory. 
+
+### Activity 4
+
+Leo, Weida, Lillian
+[Final Project Proposal First Draft](https://docs.google.com/document/d/1xISKeTxHcyg1ukxzz-i_5d-Cz9bvp_8rIGGyn6IEIXQ/edit?usp=sharing)
