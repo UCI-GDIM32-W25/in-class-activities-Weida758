@@ -59,3 +59,6 @@ Only the last locator object will have the locator component still intact, the o
 
 I created the system that allows spawning intervals of the pipes and also spawning them at random heights. 
 
+## W5
+### Activity 1
+I think the general design of the items in the scripts are fine, but I would probably change it to having an abstract Item class, then an abstract Weapon class that inherits from the Item class, so that common attributes like _durability can be placed in the Weapon class instead of declaring it on individual weapons that implement IBreakable, and common methods like damage can be created in the parent class Weapon too. The ElvenSword is a single exception that does not break despite being a weapon, so we can override the damage method and simply not reduce durability when attacking.
