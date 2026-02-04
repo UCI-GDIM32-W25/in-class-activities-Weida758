@@ -62,3 +62,12 @@ I created the system that allows spawning intervals of the pipes and also spawni
 ## W5
 ### Activity 1
 I think the general design of the items in the scripts are fine, but I would probably change it to having an abstract Item class, then an abstract Weapon class that inherits from the Item class, so that common attributes like _durability can be placed in the Weapon class instead of declaring it on individual weapons that implement IBreakable, and common methods like damage can be created in the parent class Weapon too. The ElvenSword is a single exception that does not break despite being a weapon, so we can override the damage method and simply not reduce durability when attacking.
+
+### Activity 2
+The model in the W5demo2 are the scriptable objects EnemyStats and ItemW5Demo2, which are used in the enemy and player script respectively to represent the internal stat of the enemy and also the items in the player's inventory. The controller in the demo is the Player script, which detects input and moves the player based on the input received. The view is the dialogue UI and inventory UI.
+
+### Activity 3
+
+Scenario 1: MVC with C# events
+Scenario 2: Scriptable objects for weapon & ability data, inheritance for weapon abstract class, MVC with C# events for handling the event of gunshots coming in contact with enemy. FSM for animation and movement modes like walking and running, 
+Scenario 3: Scriptable Objects for the objects that exist in the world, like plant, rock, seed, plant, etc. MVC where player receives input and react to the input for movement, view for the inventory, and model for the various data of the game where an example could be amount of seed in inventory. 
