@@ -87,3 +87,70 @@ Scriptable Objects for the objects that exist in the world, like plant, rock, se
 Leo, Weida, Lillian
 
 [Final Project Proposal First Draft](https://docs.google.com/document/d/1xISKeTxHcyg1ukxzz-i_5d-Cz9bvp_8rIGGyn6IEIXQ/edit?usp=sharing)
+
+
+## W5
+
+### GDW Talk
+Cory Lanham: Narrative Writing
+
+Most game writers most of the times aren’t the people behind the creative decisions in the game, it’s mostly the higher ups
+Preproduction Order of Priority
+-   High-Level Narrative Summary
+-   Key plot points of the main storyline that’s not done in a vacuum
+Setting and Characters
+-   In conjunction with Design, Art, Animation
+-   Understand the Scope
+-   Detailed Story Outline
+-   Level of Detail varies
+Complete story from start to finish
+Scene Descriptions, Gameplay objectives
+Narrative Delivery Methods
+How the story is going to be told and how the player will interact with the story
+Sort out the databases
+Text database
+Asset Database (Perforce)
+Establish narrative script import pipeline
+Production: Order of priority
+Writing Cinematic and Mission Scripts
+In collaboration with level design and leadership
+Implement and iterate with design
+Re-writing cinematic and mission scripts
+Project changing drastically
+System Dialogue
+Dialogue barks
+Ambient dialogue
+Specialized dialogue systems
+World Building and Lore
+Character / Setting description
+World History and timeline
+A lot of what is written here is not “Player facing”
+UI/UX Text
+Item/Location Descriptions
+Tooltips
+Casting and Recording
+Post Production to Ship: Order of tasks
+Marketing Materials
+Website Copy
+Traillers
+Non-Dialogue Text Revisions
+Proofreading
+Editing for clarity
+Localization
+Translation Notes
+Rewrites for Different markets
+Breaking into the industry
+Look for work in another department
+QA is the most common
+In-House QA Team > Outsourced Team
+Internships
+Build portfolio by making a game, make a website or something to showcase your portfolio
+For unfinished projects, make sure to have a clear disclaimer that it is unfinished and make sure team members are cool with it. 
+Networking
+IGDA/Other community meetups
+Resources:
+Book: Video Game Storytelling (Skolnick)
+Book The Game Narrative Toolbox (Heussner, et al.)
+The Game Writing Guide (Megill)
+Website: gamejobs co
+
