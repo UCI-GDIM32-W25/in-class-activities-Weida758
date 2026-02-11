@@ -92,7 +92,7 @@ Leo, Weida, Lillian
 ## W5
 
 ### GDW Talk
-#### Cory Lanham: Narrative Writing
+#### Narrative Writing, Cory Lanham
 
 Most game writers most of the times aren’t the people behind the creative decisions in the game, it’s mostly the higher ups
 
@@ -179,7 +179,7 @@ Resources:
 - Website: gamejobs co
 
 
-#### Stephen Coan: Technical Art
+#### Technical Art, Stephen Coan
 
 What is Technical Art
 - Tech artist work to remove the barrier between engineering and art, to make technology more accessible and optimized.
