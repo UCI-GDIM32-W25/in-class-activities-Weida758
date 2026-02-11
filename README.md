@@ -92,7 +92,7 @@ Leo, Weida, Lillian
 ## W5
 
 ### GDW Talk
-Cory Lanham: Narrative Writing
+#### Cory Lanham: Narrative Writing
 
 Most game writers most of the times aren’t the people behind the creative decisions in the game, it’s mostly the higher ups
 
@@ -177,4 +177,62 @@ Resources:
 - Book The Game Narrative Toolbox (Heussner, et al.)
 - The Game Writing Guide (Megill)
 - Website: gamejobs co
+
+
+#### Stephen Coan: Technical Art
+
+What is Technical Art
+- Tech artist work to remove the barrier between engineering and art, to make technology more accessible and optimized.
+
+
+Sub Disciplines of Technical Art
+- Character Tech Art
+- Rigging & Skinning
+- Animation tools
+
+
+Tools Tech Art
+- Asset management
+- Standards and Conventions
+- Art Import/Export
+- Workflow simplification
+- Automation and engine hookup
+
+
+Runtime Tech Art
+- Shaders
+- Procedural Generation
+- Optimization
+
+
+Examples of Technical Art
+- “Scene Footprints” analyzer
+Environment memory was a bottleneck to shipping on switch
+- Built a tool to presents environment by their memory footprint, breaks down the most expensive asset, and then warn artists if they’ve built a scene too large to ship on switch. 
+
+
+FX Data Hookup Tooling
+- A way to connect FX behavior to gameplay and did not want hard-coded behavior
+- Extended existing design tools for creating spells with additional data for FX behavior
+
+
+Character “Chromas”
+- Character customization where color are customized
+
+
+How to Become a Technical Artist
+- Valuable Skills
+- Strong communication skills
+- Ability to break complex tasks down into more approachable steps
+- Excitement about learning new things
+- Passion for helping others achieve their passions
+
+
+Stuff to learn about
+- Shader editing in Unity or Unreal 
+- Scripting for 3D modeling tools  (Maya/Blender/Houdini)
+- The basics of runtime optimization
+- The most important starting point is to learn shaders. Optimization and tools tech artist are the more complex roles, and the best way to learn about them is to read about it. 
+- RenderDoc
+
 
