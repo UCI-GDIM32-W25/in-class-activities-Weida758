@@ -242,3 +242,12 @@ Stuff to learn about
 - Raycast itself only returns true or false, but it produces a variable hitinfo that provides information about what the raycast hit.
 - Spherecast is like a raycast but instead of firing an arrow, it fires spheres for detection instead
 - Vector is a majority part of getting these logical detections correct.
+
+### Activity 2
+Attendance: Lillian, Weida, Leandro
+
+### Activity 3
+![Week7FinalBreakdown](https://github.com/user-attachments/assets/30fef8fa-0310-4330-a2e2-a94f9985cc1c)
+
+### Activity 5
+
