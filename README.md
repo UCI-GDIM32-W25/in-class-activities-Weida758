@@ -250,4 +250,5 @@ Attendance: Lillian, Weida, Leandro
 ![Week7FinalBreakdown](https://github.com/user-attachments/assets/30fef8fa-0310-4330-a2e2-a94f9985cc1c)
 
 ### Activity 5
-
+[Commit today for final](https://github.com/Weida758/GDIM32-Final/commit/97f3fa7ed2b1493a756176f11982db2e4503a2a5)
+I imported some materials from the Unity Asset store and also created set up script for the statemachine.
