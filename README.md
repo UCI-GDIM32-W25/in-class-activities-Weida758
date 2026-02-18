@@ -249,6 +249,12 @@ Attendance: Lillian, Weida, Leandro
 ### Activity 3
 ![Week7FinalBreakdown](https://github.com/user-attachments/assets/30fef8fa-0310-4330-a2e2-a94f9985cc1c)
 
+### Activity 4
+
+
+[Google Doc for task breakdown](https://docs.google.com/document/d/1hls1AYtu9bNMllUslOCO5rB60zfJzVcmPYjtyw58uko/edit?usp=sharing)
+
+
 ### Activity 5
 
 
