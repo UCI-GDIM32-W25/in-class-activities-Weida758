@@ -255,4 +255,6 @@ Attendance: Lillian, Weida, Leandro
 [Commit today for final](https://github.com/Weida758/GDIM32-Final/commit/97f3fa7ed2b1493a756176f11982db2e4503a2a5)
 
 
+
+
 I imported some materials from the Unity Asset store and also created set up script for the statemachine.
