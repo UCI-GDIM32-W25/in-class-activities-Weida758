@@ -235,4 +235,10 @@ Stuff to learn about
 - The most important starting point is to learn shaders. Optimization and tools tech artist are the more complex roles, and the best way to learn about them is to read about it. 
 - RenderDoc
 
+## W7
 
+### Activity 1
+- State machine that determines the state that the duck is in based on whether the duck has a line of sight to the player or not. The duck is only in one state at a time and only the logic within that state is ran.
+- Raycast itself only returns true or false, but it produces a variable hitinfo that provides information about what the raycast hit.
+- Spherecast is like a raycast but instead of firing an arrow, it fires spheres for detection instead
+- Vector is a majority part of getting these logical detections correct.
