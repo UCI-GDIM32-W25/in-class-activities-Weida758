@@ -298,4 +298,8 @@ Negatives:
 
 I am going to add jumping functionalities to the player, and begin setting up gold data for the player.
 
+### Activity 5
 
+[Commit for today](https://github.com/Weida758/GDIM32-Final/commit/d73260387709388d4ba4fe7be2c6f4ed80de6bcc)
+
+I implemented some jump functionalities for the player. Need to let the player be able to move while in the air state as well
