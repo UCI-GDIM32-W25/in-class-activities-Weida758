@@ -293,3 +293,9 @@ Negatives:
 - Sometimes the camera can be annoying when there are obstacles cause the camera to zoom to the player
 - The item’s collider is too small
 - Need indicators that indicate when the items can be picked up with what items.
+
+### Activity 4
+
+I am going to add jumping functionalities to the player, and begin setting up gold data for the player.
+
+
