@@ -278,3 +278,18 @@ Attendance: Weida, Leandro, Lillian
 
 ### Activity 3
 
+Positives:
+
+
+- The inventory system is great and the playtesters liked the UI. 
+- The playtesters thinks the scene looks good
+- The character movements is good
+
+
+Negatives:
+
+
+- There are things wrong with the rendering distance, things only get loaded when the player is really close to them. 
+- Sometimes the camera can be annoying when there are obstacles cause the camera to zoom to the player
+- The item’s collider is too small
+- Need indicators that indicate when the items can be picked up with what items.
