@@ -264,3 +264,17 @@ Attendance: Lillian, Weida, Leandro
 
 
 I imported some materials from the Unity Asset store and also created set up script for the statemachine.
+
+
+## W8
+
+### Activity 1
+- Post processing are shader that affect the entire screen, not just some individual object that is being rendered.
+- Assets have compatibilities that we have to keep in mind of because some assets may not be compatible with the rendering pipeline we're using
+- Rendering pipelines are sequences of instructions that determine how everything in the game is drawn to the screen.
+
+### Activity 2
+Attendance: Weida, Leandro, Lillian
+
+### Activity 3
+
