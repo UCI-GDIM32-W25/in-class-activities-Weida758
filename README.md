@@ -303,3 +303,28 @@ I am going to add jumping functionalities to the player, and begin setting up go
 [Commit for today](https://github.com/Weida758/GDIM32-Final/commit/d73260387709388d4ba4fe7be2c6f4ed80de6bcc)
 
 I implemented some jump functionalities for the player. Need to let the player be able to move while in the air state as well
+
+## W9
+
+### Activity 1
+- Scalable code is not only for other people, it is also for the ease of your future self to add on to it.
+- Code should be written in a way that allows non technical people in the team to contribute.
+
+
+### Activity 2
+Attendance: Weida, Leandro, Lillian
+
+### Activity 3
+- The controls to consume items in the inventory should be right click instead of the T button
+- There should be instructions in the actual game that tells the player about controls rather than just the itch page description
+- Maybe add some fog to the scene to make it look more scary ish.
+
+
+### Activity 4
+ We're a bit behind on our project's progress, specifically in creating the combat system and also the quest system. So I do think we might've overscoped a little, but I think we can still finish what we've proposed.
+
+ ### Activity 5
+ [My Commit for the Day](https://github.com/Weida758/GDIM32-Final/commit/bdc90a192a7afe9dc7243f4f4af84c266269bdf9)
+
+ Created a weapon component for the player and can potentially be reused by the enemies too, where it creates methods for the character to apply damage to a gameObject's HealthComponent.
+
