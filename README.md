@@ -334,9 +334,16 @@ Attendance: Weida, Leandro, Lillian
 Attendance: Weida, Lillian, Leandro
 
 ### Activity 2
-
+- The dialogue should be finalized now
+- The scene would look better if brighter
+- Scene should be smaller
+- Enemy and player attack should work
 
 ### Activity 3
 We are pretty far behind on the progression of our project in terms of where we're supposed to be right now. That's mainly because it's near final's week and there are a lot of projects due other classes and exams coming up, so I don't have all the time to work on this project. I think the scope of our project was also a bit too large, if our ultimate goal is to build systems that are scalable, since that complicates things a lot. 
 
-### 
+### Activity 4
+[Attack State of the Player](https://github.com/Weida758/GDIM32-Final/commit/a0e6d7fa1a068dc44fea95292b7b46dab5f6bfbd)
+
+
+I completed the attack state of the player, where the player can click to attack. The attack state ends when the animation trigger event is called at the end of the attack animation, so then the player can only transition to other states if the animation ended. 
