@@ -328,3 +328,15 @@ Attendance: Weida, Leandro, Lillian
 
  Created a weapon component for the player and can potentially be reused by the enemies too, where it creates methods for the character to apply damage to a gameObject's HealthComponent.
 
+## W10
+
+### Activity 1
+Attendance: Weida, Lillian, Leandro
+
+### Activity 2
+
+
+### Activity 3
+We are pretty far behind on the progression of our project in terms of where we're supposed to be right now. That's mainly because it's near final's week and there are a lot of projects due other classes and exams coming up, so I don't have all the time to work on this project. I think the scope of our project was also a bit too large, if our ultimate goal is to build systems that are scalable, since that complicates things a lot. 
+
+### 
